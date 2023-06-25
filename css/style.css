@@ -1,0 +1,32 @@
+body{
+    background:url("../img/bogota.jpg");
+    color: #ffffff;
+    text-align: center;
+}
+h1{
+    color:#2396bd;
+    font-size: 60px;
+}
+button{
+    padding: 6px 20px;
+    background: #39a900;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 26px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: .5s;
+}
+
+button:hover{
+    background: transparent;
+    color: #23bd37;
+    border: 1px solid #2396bd;
+    border-radius: 0;
+}
+
+img{
+    border-radius: 50%;
+    height: 100px;
+}
